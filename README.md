@@ -25,7 +25,11 @@ Food Delivers is a website built as a part of the CS-432 Databases course at IIT
 
 Short on time? Check out our [5-minute demo ⏱️](https://iitgnacin-my.sharepoint.com/:v:/g/personal/22110050_iitgn_ac_in/ERPKJ4XklBxLnGm0DlP5ZjoBlLor2-MnAwYNJVAveyxSjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6iFNyG)!
 
-**Tip**: use **[srivibhav.pythonanywhere.com](http://srivibhav.pythonanywhere.com/)** to check the website without the need to run any code. To know more about the project, please refer to the Reports section.
+**Tip**: use **[srivibhav.pythonanywhere.com](http://srivibhav.pythonanywhere.com/)** to check the website without the need to run any code.
+
+**Note**: If you see **Error code: 502-backend**, just refresh the page to function normally.
+
+To know more about the project, please refer to the **Reports** folder.
 
 ## Installation for local use
 1. Clone this repository.
