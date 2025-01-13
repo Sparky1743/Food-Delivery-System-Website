@@ -23,7 +23,7 @@
 
 Food Delivers is a website built as a part of the CS-432 Databases course at IIT Gandhinagar. It implements key features essential for a food delivery service, including user registration, order processing, menu management etc. The website is even optimized for mobile devices.
 
-Short on time? Check out our [5-minute demo ⏱️](https://iitgnacin-my.sharepoint.com/:v:/g/personal/22110050_iitgn_ac_in/ERPKJ4XklBxLnGm0DlP5ZjoBlLor2-MnAwYNJVAveyxSjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6iFNyG)!
+Short on time? Check out our [5-minute demo ⏱️](https://drive.google.com/file/d/1CwQiLTKsieQYna6RJ447GmfxqEsCmGi4/view?usp=sharing)!
 
 **Tip**: use **[srivibhav.pythonanywhere.com](http://srivibhav.pythonanywhere.com/)** to check the website without the need to run any code.
 
